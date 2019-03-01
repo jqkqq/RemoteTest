@@ -36,9 +36,6 @@ class DogViewController: UIViewController {
             task.resume()
         }
     }
-
-    
-
     /*
     // MARK: - Navigation
 
@@ -48,5 +45,4 @@ class DogViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
 }
